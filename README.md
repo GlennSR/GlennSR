@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glennsr&label=Profile%20views&color=0e75b6&style=flat" alt="glennsr" /> </p>
 
-- 🔭 I’m currently looking for **jobs in Robotics, Computer Vision etc**
+- 🔭 I’m currently looking for **jobs in Robotics, Computer Vision, ML/DL, AI, VR etc**
 
 - 🌱 I’m currently learning **C++ and Python**
 
