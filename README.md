@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently looking for **jobs in Robotics, Computer Vision, ML/DL, AI, VR etc**
 
-- 🌱 I’m currently learning **C++ and Python**
+- 🌱 I’m currently learning **C++ and Automation with Ecostruxure Machine Expert**
 
-- 👯 I’m looking to collaborate on **any project like Autonomous Vehicles, Robotics, AI etc**
+- 👯 I’m looking to collaborate on **any project in the area of Autonomous Vehicles, Robotics, AI etc**
 
 - 🤝 I’m looking for help with **job searching**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GlennSR](https://github.com/GlennSR)
 
-- 💬 Ask me about **Python, C++, ROS, Machine Learning etc**
+- 💬 Ask me about **Python, C++, ROS, Machine Learning, Cobotics such as UR etc**
 
 - 📫 How to reach me **gleniosimiao@gmail.com**
 
