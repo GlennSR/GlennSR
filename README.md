@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/glênio-simião-ramalho-0104b5170/](https://www.linkedin.com/in/glênio-simião-ramalho-0104b5170/)
 
-- ⚡ Fun fact **I don't like Big Bang Theory**
+- ⚡ Fun fact about me: **I don't like Big Bang Theory**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
