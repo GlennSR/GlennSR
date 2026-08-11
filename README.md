@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for **jobs in Robotics, Computer Vision, ML/DL, AI, VR etc**
 
-- 🌱 I’m currently learning **C++ and Automation with Ecostruxure Machine Expert**
+- 🌱 I’m currently enhancing my knowledge in **Computer Vision for Robotics**
 
 - 👯 I’m looking to collaborate on **any project in the area of Autonomous Vehicles, Robotics, AI etc**
 
